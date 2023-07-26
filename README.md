@@ -42,7 +42,7 @@ This repository contains a collection of resources and papers on Protein Design.
 	- [Github Code](https://github.com/kalininalab/alphafold_non_docker)
 - Protein design and variant prediction using autoregressive generative models
 	- (23 April 2021, Nature Communications, Jung-Eun Shin & Debora S.Marks)
-	- [Github Code]([https://github.com/debbiemarkslab/SeqDesign](https://github.com/debbiemarkslab/SeqDesign))
+	- [Github Code](https://github.com/debbiemarkslab/SeqDesign)
 
 
 # Applications
