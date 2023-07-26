@@ -19,7 +19,7 @@ This repository contains a collection of resources and papers on Protein Design.
 
 # Papers
 
-- De novo design of protein structure and function with RFdiffusion  ([links]( https://www.nature.com/articles/s41586-023-06415-8 )) 
+- De novo design of protein structure and function with RFdiffusionhttps://www.nature.com/articles/s41586-023-06415-8  ([Links]( https://www.nature.com/articles/s41586-023-06415-8 )) 
 	- (11 July 2023, Nature,  Joseph L. Watson & David Baker)
 	- Keyword or description
 	- [GitHub Code]( https://github.com/RosettaCommons/RFdiffusion ), [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb),  [RFdiffusion now free and open source form Bakerlab](https://www.bakerlab.org/2023/03/30/rf-diffusion-now-free-and-open-source/)
@@ -27,14 +27,22 @@ This repository contains a collection of resources and papers on Protein Design.
 - Improving de novo protein binder design with deep learning ([Links](https://www.nature.com/articles/s41467-023-38328-5))
 	- (06 May 2023, Nature Communications, Nathaniel R. Bennett &David Baker )
 
+- ProGen: Large language models generate functional protein sequences across diverse families ( [Links](https://www.nature.com/articles/s41587-022-01618-2))
+	- (2023, Nature Biotechnology, Ali Madani&Nikhil Naik)
+	- [GitHub Code](https://github.com/salesforce/progen)
 
+- ProGen2: Exploring the Boundaries of Protein Language Models (2022, [Links](https://arxiv.org/pdf/2206.13517.pdf), )
+	- [Git Hub Code](https://github.com/salesforce/progen/tree/main/progen2)
+
+- Protein sequence design with deep generative models ([Links](https://www.sciencedirect.com/science/article/pii/S136759312100051X))
+	- (Dec 2021, Current Opinion in Chemical Biology, Zachary Wu&Kevin K. Yang)
+- **Benchmarking deep generative models for diverse antibody sequence design** ([Links](https://arxiv.org/pdf/2111.06801.pdf))
+	- (2021, NeurIPS, Igor Melnyk&Vijil Chenthamarakshan)
+	- [Github Code](https://github.com/kalininalab/alphafold_non_docker)
 - Protein design and variant prediction using autoregressive generative models
-- **Large language models generate functional protein sequences across diverse families (2023, nature biotechnology, [address](https://www.nature.com/articles/s41587-022-01618-2))** 
+	- (23 April 2021, Nature Communications, Jung-Eun Shin & Debora S.Marks)
+	- [Github Code]([https://github.com/debbiemarkslab/SeqDesign](https://github.com/debbiemarkslab/SeqDesign))
 
-- ProGen2**: Exploring the Boundaries of Protein Language Models (2022, [address](https://arxiv.org/pdf/2206.13517.pdf), [code](https://github.com/salesforce/progen/tree/main/progen2))
-
-- Protein sequence design with deep generative models
-- **Benchmarking deep generative models for diverse antibody sequence design**(2021, NeurIPS, [address](https://arxiv.org/pdf/2111.06801.pdf))
 
 # Applications
 
