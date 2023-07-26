@@ -19,7 +19,7 @@ This repository contains a collection of resources and papers on Protein Design.
 
 # Papers
 
-- De novo design of protein structure and function with RFdiffusionhttps://www.nature.com/articles/s41586-023-06415-8  ([Links]( https://www.nature.com/articles/s41586-023-06415-8 )) 
+- De novo design of protein structure and function with RFdiffusion  ([Links]( https://www.nature.com/articles/s41586-023-06415-8 )) 
 	- (11 July 2023, Nature,  Joseph L. Watson & David Baker)
 	- Keyword or description
 	- [GitHub Code]( https://github.com/RosettaCommons/RFdiffusion ), [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb),  [RFdiffusion now free and open source form Bakerlab](https://www.bakerlab.org/2023/03/30/rf-diffusion-now-free-and-open-source/)
@@ -31,8 +31,9 @@ This repository contains a collection of resources and papers on Protein Design.
 	- (2023, Nature Biotechnology, Ali Madani&Nikhil Naik)
 	- [GitHub Code](https://github.com/salesforce/progen)
 
-- ProGen2: Exploring the Boundaries of Protein Language Models (2022, [Links](https://arxiv.org/pdf/2206.13517.pdf), )
-	- [Git Hub Code](https://github.com/salesforce/progen/tree/main/progen2)
+- ProGen2: Exploring the Boundaries of Protein Language Models ([Links](https://arxiv.org/pdf/2206.13517.pdf), )
+	- (27 Jun 2022 (submit time), arxiv.org, Erik Nijkamp&Ali Madani)
+	- [GitHub Code](https://github.com/salesforce/progen/tree/main/progen2)
 
 - Protein sequence design with deep generative models ([Links](https://www.sciencedirect.com/science/article/pii/S136759312100051X))
 	- (Dec 2021, Current Opinion in Chemical Biology, Zachary Wu&Kevin K. Yang)
