@@ -26,6 +26,7 @@ This repository contains a collection of resources and papers on Protein Design.
 	- [![GitHub Repo stars](https://img.shields.io/github/stars/RosettaCommons/RFdiffusion)]( https://github.com/RosettaCommons/RFdiffusion ), [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb),  [RFdiffusion now free and open source form Bakerlab](https://www.bakerlab.org/2023/03/30/rf-diffusion-now-free-and-open-source/)
 
 - Improving de novo protein binder design with deep learning ([Links](https://www.nature.com/articles/s41467-023-38328-5))
+
 	- (06 May 2023, Nature Communications, Nathaniel R. Bennett &David Baker )
 
 - ProGen: Large language models generate functional protein sequences across diverse families ( [Links](https://www.nature.com/articles/s41587-022-01618-2))
@@ -45,6 +46,17 @@ This repository contains a collection of resources and papers on Protein Design.
 	- (23 April 2021, Nature Communications, Jung-Eun Shin & Debora S.Marks)
 	- [![GitHub Repo stars](https://img.shields.io/github/stars/debbiemarkslab/SeqDesign)]( https://github.com/debbiemarkslab/SeqDesign )
 
+ESM-Facebook:
+
+- Language models generalize beyond natural proteins ([Links](https://www.biorxiv.org/content/10.1101/2022.12.21.521521v1))
+	- (22 Dec 2022 (Submit), bioRxiv, Robert Verkuil&Alexander Rives)
+	- [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/esm)]( https://github.com/facebookresearch/esm/tree/main/examples/lm-design )
+	- [fixed_backbone](https://github.com/facebookresearch/esm/blob/main/examples/lm-design/fixed_backbone.ipynb)
+	- [free_generation]( https://github.com/facebookresearch/esm/blob/main/examples/lm-design/free_generation.ipynb )
+
+- A high-level programming language for generative protein design ([Links](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1))
+	- (22 Dec 2022 , bioRxiv, Brian Hie&Alexander Rives)
+	- [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/esm)]( https://github.com/facebookresearch/esm/tree/main/examples/protein-programming-language ),[<img src="https://colab.research.google.com/assets/colab-badge.svg">]( https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/protein-programming-language/tutorial.ipynb ) 
 
 # Applications
 
