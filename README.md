@@ -16,10 +16,6 @@ This repository contains a collection of resources and papers on Protein Design.
 
 # Resources
 
-**:fast_forward: DiffusionFastForward: 01-Diffusion-Theory** \
-*Mikolaj Czerkawski (@mikonvergence)* \
-[[Website](https://github.com/mikonvergence/DiffusionFastForward/blob/master/notes/01-Diffusion-Theory.md)] \
-4 Feb 2023
 
 # Papers
 
