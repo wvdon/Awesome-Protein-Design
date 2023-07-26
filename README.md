@@ -22,7 +22,7 @@ This repository contains a collection of resources and papers on Protein Design.
 - De novo design of protein structure and function with RFdiffusion  ([links]( https://www.nature.com/articles/s41586-023-06415-8 )) 
 	- (11 July 2023, Nature,  Joseph L. Watson & David Baker)
 	- Keyword or description
-	- [GitHub Code]( https://github.com/RosettaCommons/RFdiffusion ), [Colab Google (Notebook)](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb) [RFdiffusion now free and open source form Bakerlab](https://www.bakerlab.org/2023/03/30/rf-diffusion-now-free-and-open-source/)
+	- [GitHub Code]( https://github.com/RosettaCommons/RFdiffusion ), [<img src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb),  [RFdiffusion now free and open source form Bakerlab](https://www.bakerlab.org/2023/03/30/rf-diffusion-now-free-and-open-source/)
 
 - Improving de novo protein binder design with deep learning ([Links](https://www.nature.com/articles/s41467-023-38328-5))
 	- (06 May 2023, Nature Communications, Nathaniel R. Bennett &David Baker )
