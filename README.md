@@ -70,7 +70,7 @@ ESM-Facebook:
 - DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding ([Links](https://arxiv.org/abs/2211.11214))
 	- (2022, arXiv, Haitao Lin & Stan Z.Li)
 - Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models ([Links](https://arxiv.org/pdf/2205.15019.pdf))
-	- 
+
 ## Text_Generation
 - SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers ([Links](https://arxiv.org/pdf/2212.10325.pdf))
 	- (2023, arXiv, Hongyi Yuan&Songfang Huang)
