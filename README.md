@@ -11,6 +11,8 @@ This repository contains a collection of resources and papers on Protein Design.
 
 - [Resources](#resources)
 - [Papers](#papers)
+	- [De novo design]( #De_novo_design)
+	- [Generation](#Protein_Generation)
 - [Applications](#applications)
 
 
@@ -20,6 +22,7 @@ This repository contains a collection of resources and papers on Protein Design.
 
 # Papers
 
+## De_novo_design
 - De novo design of protein structure and function with RFdiffusion  ([Links]( https://www.nature.com/articles/s41586-023-06415-8 )) 
 	- (11 July 2023, Nature,  Joseph L. Watson & David Baker)
 	- Keyword or description
@@ -57,6 +60,14 @@ ESM-Facebook:
 - A high-level programming language for generative protein design ([Links](https://www.biorxiv.org/content/10.1101/2022.12.21.521526v1))
 	- (22 Dec 2022 , bioRxiv, Brian Hie&Alexander Rives)
 	- [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/esm)]( https://github.com/facebookresearch/esm/tree/main/examples/protein-programming-language ),[<img src="https://colab.research.google.com/assets/colab-badge.svg">]( https://colab.research.google.com/github/facebookresearch/esm/blob/main/examples/protein-programming-language/tutorial.ipynb ) 
+- Protein Design with Guided Discrete Diffusion ([Links](https://arxiv.org/abs/2305.20009))
+	- (31 May 2023, arXiv, Nate Gruver&Andrew Gordon Wilson)
+
+## Protein_Generation
+- DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models ([Links](https://arxiv.org/pdf/2304.03889.pdf))
+	- (2023, ICLR, Mohamed Amine Ketata&TImmi S.Jaakkola)
+- DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding ([Links](https://arxiv.org/abs/2211.11214))
+	- (2022, arXiv, Haitao Lin & Stan Z.Li)
 
 # Applications
 
