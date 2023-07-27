@@ -66,11 +66,20 @@ ESM-Facebook:
 ## Protein_Generation
 - DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models ([Links](https://arxiv.org/pdf/2304.03889.pdf))
 	- (2023, ICLR, Mohamed Amine Ketata&TImmi S.Jaakkola)
+	- [![GitHub Repo stars](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq)]( https://github.com/Shark-NLP/DiffuSeq ) 
 - DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding ([Links](https://arxiv.org/abs/2211.11214))
 	- (2022, arXiv, Haitao Lin & Stan Z.Li)
+- Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models ([Links](https://arxiv.org/pdf/2205.15019.pdf))
+	- 
+## Text_Generation
+- SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers ([Links](https://arxiv.org/pdf/2212.10325.pdf))
+	- (2023, arXiv, Hongyi Yuan&Songfang Huang)
+- DIFFUSEQ: SEQUENCE TO SEQUENCE TEXT GENERATION WITH DIFFUSION MODELS
+- DiffusER: Discrete Diffusion via Edit-based Reconstruction ([Links]( https://arxiv.org/abs/2210.16886 ))
+	- (2023, ICLR, Machel Reid&Graham Neubig)
+
 
 # Applications
-
 
 
 # Other
@@ -81,3 +90,5 @@ format:
   - (Year, publisher, Authors)
   - keyword or description
 ```
+
+[Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)
