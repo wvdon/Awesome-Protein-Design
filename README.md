@@ -50,6 +50,8 @@ This repository contains a collection of resources and papers on Protein Design.
 	- [![GitHub Repo stars](https://img.shields.io/github/stars/debbiemarkslab/SeqDesign)]( https://github.com/debbiemarkslab/SeqDesign )
 - Design of protein-binding proteins from the target structure alone ([Links](https://www.nature.com/articles/s41586-022-04654-9))
 	- (March, 2022, Nature, Longxing Cao& David Baker)
+
+
 Conditional design
 - HelixGAN a deep-learning methodology for conditional de novo design of α-helix structures ([Liks](https://academic.oup.com/bioinformatics/article/39/1/btad036/6991169?login=true))
 	- (2023, Bioinformaticss)
