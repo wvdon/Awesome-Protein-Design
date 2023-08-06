@@ -50,7 +50,11 @@ This repository contains a collection of resources and papers on Protein Design.
 	- [![GitHub Repo stars](https://img.shields.io/github/stars/debbiemarkslab/SeqDesign)]( https://github.com/debbiemarkslab/SeqDesign )
 - Design of protein-binding proteins from the target structure alone ([Links](https://www.nature.com/articles/s41586-022-04654-9))
 	- (March, 2022, Nature, Longxing Cao& David Baker)
-
+Conditional design
+- HelixGAN a deep-learning methodology for conditional de novo design of α-helix structures ([Liks](https://academic.oup.com/bioinformatics/article/39/1/btad036/6991169?login=true))
+	- (2023, Bioinformaticss)
+- Conditional generative modeling for de novo protein design with hierarchical functions
+	- (2022, Bioinformatics,)
 ## Protein_Language_Model
 - Evolutionary-scale prediction of atomic level protein structure with a language model ([Links](https://www.biorxiv.org/content/10.1101/2022.07.20.500902v2))
 	- (2022, bioRxiv, Zeming Lin&Alexander Rives)
@@ -77,6 +81,7 @@ This repository contains a collection of resources and papers on Protein Design.
 - DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding ([Links](https://arxiv.org/abs/2211.11214))
 	- (2022, arXiv, Haitao Lin & Stan Z.Li)
 - Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models ([Links](https://arxiv.org/pdf/2205.15019.pdf))
+
 
 ## Text_Generation
 - SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers ([Links](https://arxiv.org/pdf/2212.10325.pdf))
