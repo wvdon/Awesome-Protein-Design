@@ -17,8 +17,6 @@ This repository contains a collection of resources and papers on Protein Design.
 	- [Text Generation ]( #Text_Generation )
 - [Applications](#applications)
 
-
-
 # Resources
 
 
@@ -76,14 +74,16 @@ Conditional design
 - Deploying synthetic coevolution and machine learning to engineer protein-protein interactions ([Liks](https://www.science.org/doi/10.1126/science.adh1720))
 	- (Jul, 2023, Science, Aerin Yang&Kenan Garcia)
 
-## Protein_Generation
+## Protein_Generation\
+- Protein Ensemble Generation through Variational Autoencoder Latent Space Sampling([Links](https://dlib.hust.edu.vn/ViewOnline/pdf/94654653445500883647053913757442706108/94654653445500883647053913757442706108.html))
+	- (2023, bioRxiv preprint, David Baker)
 - DiffDock-PP: Rigid Protein-Protein Docking with Diffusion Models ([Links](https://arxiv.org/pdf/2304.03889.pdf))
 	- (2023, ICLR, Mohamed Amine Ketata&TImmi S.Jaakkola)
 	- [![GitHub Repo stars](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq)]( https://github.com/Shark-NLP/DiffuSeq ) 
 - DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding ([Links](https://arxiv.org/abs/2211.11214))
 	- (2022, arXiv, Haitao Lin & Stan Z.Li)
 - Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models ([Links](https://arxiv.org/pdf/2205.15019.pdf))
-
+- Transformer-based protein generation with regularized latent space optimization ([Links](https://www.nature.com/articles/s42256-022-00532-1))
 
 ## Text_Generation
 - SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers ([Links](https://arxiv.org/pdf/2212.10325.pdf))
@@ -92,6 +92,9 @@ Conditional design
 - DiffusER: Discrete Diffusion via Edit-based Reconstruction ([Links]( https://arxiv.org/abs/2210.16886 ))
 	- (2023, ICLR, Machel Reid&Graham Neubig)
 
+
+Reviews:
+- Protein design via deep learning ([Links](https://academic.oup.com/bib/article/23/3/bbac102/6554124))
 
 # Applications
 
